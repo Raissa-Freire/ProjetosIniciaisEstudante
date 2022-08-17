@@ -6,6 +6,7 @@ public class HotelAnimal {
     public static void boasVindas() {
         System.out.println("Bem vindo ao Hotel Animal ");
         System.out.println("Qual bichinho deseja hospedar conosco?");
+        System.out.println("Para Cão digite: 1; Para Gato digite: 2;");
         Scanner input = new Scanner(System.in);
         int bichinho = input.nextInt();
         if (bichinho==1){

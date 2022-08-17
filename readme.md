@@ -1,0 +1,1 @@
+Olá! Esse pequeno exercício visa orientar a utilização dos conceitos de Herança e Polimorfismo através de seus métodos.
